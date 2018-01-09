@@ -1,0 +1,28 @@
+{
+    "name": "melipayamak/yii2",
+    "description": "yii2 melipayamak integration",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","melipayamak","sms","api"],
+    "license": "MIT",
+    "homepage": "http://github.com/Melipayamak/melipayamak-yii2",
+    "version": "0.1.0",
+	"authors": [
+        {
+            "name" : "melipayamak",
+            "email": "melipayamak.ir@gmail.com"
+        },
+        {
+            "name": "Ara Code It",
+            "email": "ahnara92@gmail.com"
+        }
+    ],
+    "require": {
+        "melipayamak/php": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Melipayamak\\Yii2\\": "src/"
+        }
+    },
+    "minimum-stability" : "stable"
+}
