@@ -5,7 +5,7 @@
     "keywords": ["yii2","extension","melipayamak","sms","api"],
     "license": "MIT",
     "homepage": "http://github.com/Melipayamak/melipayamak-yii2",
-    "version": "0.1.0",
+    "version": "1.0.0",
 	"authors": [
         {
             "name" : "melipayamak",
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "melipayamak/php": "*"
+        "melipayamak/php": "1.0.0"
     },
     "autoload": {
         "psr-4": {
