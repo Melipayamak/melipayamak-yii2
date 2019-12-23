@@ -22,7 +22,7 @@
 
 
 ```php
-composer require melipayamak/yii2 
+composer require melipayamak/yii2:1.0.0
 ```
 
 
@@ -37,7 +37,7 @@ composer.json
 
 
 ```json
-"melipayamak/yii2": "*"
+"melipayamak/yii2": "1.0.0"
 ```
 
 
