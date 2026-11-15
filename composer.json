@@ -5,7 +5,6 @@
     "keywords": ["yii2","extension","melipayamak","sms","api"],
     "license": "MIT",
     "homepage": "http://github.com/Melipayamak/melipayamak-yii2",
-    "version": "2.0.5",
 	"authors": [
         {
             "name" : "melipayamak",
